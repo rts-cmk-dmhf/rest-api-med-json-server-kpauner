@@ -2,37 +2,37 @@
   "products": [
     {
       "id": "1",
-      "product_name": "TickleMeToaster 2000",
+      "title": "TickleMeToaster 2000",
       "price": "$19.99",
       "description": "Introducing the TickleMeToaster 2000, the toaster that brings joy to your breakfast routine! This whimsical toaster not only perfectly toasts your bread but also adds a touch of laughter to your morning. As your bread crisps up, you'll hear delightful giggles emanating from the TickleMeToaster 2000. It's the perfect way to start your day with a smile."
     },
     {
       "id": "2",
-      "product_name": "Squirrel-Powered Blender",
+      "title": "Squirrel-Powered Blender",
       "price": "$29.99",
       "description": "Get ready for a unique blending experience with our Squirrel-Powered Blender! This extraordinary blender harnesses the boundless energy of enthusiastic squirrels to whip up your favorite smoothies. Watch in amazement as the furry critters spin the blades with unmatched zeal, ensuring your smoothies are not only delicious but also a true spectacle."
     },
     {
       "id": "3",
-      "product_name": "Inflatable Dartboard",
+      "title": "Inflatable Dartboard",
       "price": "$12.99",
       "description": "Say goodbye to the risk of sharp darts with our Inflatable Dartboard! This innovative twist on a classic game ensures safety without sacrificing the fun. Just inflate the dartboard, grab your darts, and enjoy hours of dart-throwing excitement. No more worrying about accidents – it's all about fun and games!"
     },
     {
       "id": "4",
-      "product_name": "Unicorn Poop Emoji Slippers",
+      "title": "Unicorn Poop Emoji Slippers",
       "price": "$9.99",
       "description": "Step into a world of whimsy with our Unicorn Poop Emoji Slippers! These enchanting slippers are designed to make you feel like you're walking on rainbow-colored unicorn poop. Crafted with soft, plush materials, they're not only hilarious but also incredibly comfortable. Embrace the magic and let your feet do the talking!"
     },
     {
       "id": "5",
-      "product_name": "Nap-Anywhere Pillow Hat",
+      "title": "Nap-Anywhere Pillow Hat",
       "price": "$24.99",
       "description": "Experience the ultimate relaxation with our Nap-Anywhere Pillow Hat. This stylish and functional accessory allows you to take a nap anywhere you please. Simply don the hat, adjust the built-in pillow for maximum comfort, and catch some Z's in style. Whether you're on a plane, in the park, or at your desk, nap time has never been this fashionable!"
     },
     {
       "id": "6",
-      "product_name": "Yes we get it",
+      "title": "Yes we get it",
       "price": "$24.99",
       "description": "Experience the ultimate relaxation with our Nap-Anywhere Pillow Hat. This stylish and functional accessory allows you to take a nap anywhere you please. Simply don the hat, adjust the built-in pillow for maximum comfort, and catch some Z's in style. Whether you're on a plane, in the park, or at your desk, nap time has never been this fashionable!"
     }

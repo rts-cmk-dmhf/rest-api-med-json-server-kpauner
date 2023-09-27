@@ -14,7 +14,7 @@ export default async function ProductList({ className }) {
     <>
       {products.map((product) => (
         <article key={product.id} className={className}>
-          <h3 className="font-bold text-2xl">{product.product_name}</h3>
+          <h3 className="font-bold text-2xl">{product.title}</h3>
           <p>{product.description.slice(0, 200)}...</p>
           <div className="py-4 border-t border-slate-300 mt-4">
             <button>Delete</button>
